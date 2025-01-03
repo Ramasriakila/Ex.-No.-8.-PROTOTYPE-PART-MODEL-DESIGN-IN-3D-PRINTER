@@ -46,7 +46,7 @@
 ###   7.	Open the file from the USB storage and select the Print option.
 
 ## Output:
-![image](https://github.com/user-attachments/assets/23342ea1-4cc6-4d00-ab34-e896e5fb579d)
+![image](https://github.com/user-attachments/assets/ad35c95d-60b0-4d9d-8250-763d3cfb0f17)
 
 
 
